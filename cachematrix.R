@@ -47,3 +47,6 @@ cacheSolve <- function(x, ...) {
   x$setInvr(invFunc)
   invFunc
 }
+
+
+## End
